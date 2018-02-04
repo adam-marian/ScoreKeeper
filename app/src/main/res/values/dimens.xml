@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="layoutMargin">24dp</dimen>
+    <dimen name="marginTopBottom">8dp</dimen>
+    <dimen name="scoreSize">56sp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="cornerRadius">12dp</dimen>
+    <dimen name="teamImageHeight">120dp</dimen>
+    <dimen name="imageWidth">40dp</dimen>
+    <dimen name="resetMargin">40dp</dimen>
+    <dimen name="paddingText">13dp</dimen>
+</resources>
