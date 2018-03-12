@@ -7,7 +7,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
-
 /**
  * This activity keeps track of the basketball score for 2 teams.
  */

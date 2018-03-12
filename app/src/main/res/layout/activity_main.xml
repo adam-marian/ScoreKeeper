@@ -40,7 +40,6 @@
                     card_view:cardElevation="@dimen/zero"
                     card_view:cardMaxElevation="@dimen/zero">
 
-
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/teamImageHeight"
@@ -80,7 +79,6 @@
                     android:layout_marginBottom="@dimen/marginTopBottom"
                     android:layout_marginLeft="@dimen/layoutMargin"
                     android:layout_marginRight="@dimen/layoutMargin"
-
                     android:paddingBottom="@dimen/paddingText"
                     android:paddingTop="@dimen/paddingText"
                     android:background="@drawable/gradient"
@@ -146,7 +144,6 @@
                     card_view:cardCornerRadius="@dimen/cornerRadius"
                     card_view:cardElevation="@dimen/zero"
                     card_view:cardMaxElevation="@dimen/zero">
-
 
                     <ImageView
                         android:layout_width="match_parent"
